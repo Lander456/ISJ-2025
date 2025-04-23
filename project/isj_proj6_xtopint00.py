@@ -29,7 +29,3 @@ def upd_word_counts(sentence, word_counts = None, *, to_upper = False):
 
     return internalCounter
 
-
-if __name__ == "__main__":
-
-    doctest.testmod()
